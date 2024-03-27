@@ -20,7 +20,7 @@ curl -s "https://get.sdkman.io" | bash && source "$HOME/.sdkman/bin/sdkman-init.
 [Microsoft Docs](https://learn.microsoft.com/en-us/windows/wsl/wsl-config#systemd-support)
 
 1. Open C:\Users\username.wslconfig
-2. Find the line: guiApplications=false and change it to guiApplications=true. If you can not find the line, add it in the file.
+2. Find the line: `guiApplications=false` and change it to `guiApplications=true`. If you can not find the line, add it in the file.
 3. Restart your PC.
 4. Execute `wsl --update`
 5. Execute `sudo apt-get -y update && sudo apt-get -y upgrade snapd`
