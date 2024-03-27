@@ -3,7 +3,7 @@ Software I've found useful through the years.
 | Name                                                       | Description                                                           |
 |------------------------------------------------------------|-----------------------------------------------------------------------|
 | [AutoHotKey](https://www.autohotkey.com/)                  | Automation scripting language for Windows.                            |
-| [Beeftext](https://beeftext.org/)                          | Open source t ext substitution tool                                   |
+| [Beeftext](https://beeftext.org/)                          | Open source text substitution tool                                   |
 | [Directory Opus](https://www.gpsoft.com.au/)               | Windows Explorer replacement found thanks to SwiftOnSecurity.         |
 | [Everything](https://www.voidtools.com/)                   | Best file search utility ever.                                        |
 | [Github Desktop](https://desktop.github.com/)              | Avoid git fights.                                                     |
