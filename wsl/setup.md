@@ -11,7 +11,7 @@ sudo apt-get update -y && sudo apt install git-all curl zip unzip jq -y && sudo 
 ## SDKMAN!
 
 ```bash
-curl -s "https://get.sdkman.io" | bash && source "$HOME/.sdkman/bin/sdkman-init.sh" && sdk install java 8.0.372-tem && sdk install sbt
+curl -s "https://get.sdkman.io" | bash && source "$HOME/.sdkman/bin/sdkman-init.sh" && sdk install java 8.0.402-tem && sdk install sbt
 ```
 <!-- sdk install java $(sdk list java | grep -o "\b8\.[0-9]*\.[0-9]*\-tem" | head -1) -->
 
