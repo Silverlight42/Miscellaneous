@@ -16,6 +16,7 @@ Software I've found useful through the years.
 | [PatchMyPC](https://patchmypc.com/home-updater)                      | Patch management.                                                     |
 | [ScreenToGif](https://www.screentogif.com/)                          | Make gifs.                                                            |
 | [ShareX](https://getsharex.com/)                                     | Best screenshot tool.                                                 |
+| [Tailscale](https://tailscale.com/)                                  | Zero config VPN.
 | [TreeSizeFree](https://www.jam-software.com/treesize_free)           | Utilify to find space hogs. (Parquet files probably, or WSL)          |
 | [WinMerge](https://winmerge.org/)                                    | Diff utility.                                                         |
 
