@@ -17,8 +17,6 @@ object SparkSessionManager extends Serializable {
     .set("spark.sql.parquet.datetimeRebaseModeInWrite", "LEGACY")
     .set("spark.sql.shuffle.partitions", "4")
     .set("spark.sql.session.timeZone", "UTC")
-    .set("spark.databricks.delta.constraints.allowUnenforcedNotNull.enabled", "true")
-    .set("spark.databricks.delta.allowArbitraryProperties.enabled", "true")
     .setMaster("local[*]")
 
   def session: SparkSession =
