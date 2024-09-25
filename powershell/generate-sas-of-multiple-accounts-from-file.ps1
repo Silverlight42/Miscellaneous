@@ -1,8 +1,8 @@
 Clear-Host
 
 <# 
-    az-accounts.properties file:
-    accountName=acconutKey
+    az-accounts.properties file sample content:
+    accountName=accountKey
 #>
 
 $propsFilePath = Join-Path -Path $PSScriptRoot -ChildPath az-accounts.properties
